@@ -1,0 +1,2 @@
+32.83Total sales valuse is :394.00
+The average value is :32.83
